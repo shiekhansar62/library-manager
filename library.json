@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Python Tricks: A Buffet of Awesome Python Features",
+    "author": "Dan Bader",
+    "publication_year": 2017,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-03-16 12:30:00"
+  },
+  {
+    "title": "Python Cookbook",
+    "author": "David Beazley",
+    "publication_year": 2013,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-03-16 12:31:00"
+  },
+  {
+    "title": "Python for Data Analysis",
+    "author": "Wes McKinney",
+    "publication_year": 2017,
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-03-16 12:32:00"
+  },
+  {
+    "title": "Head First Python",
+    "author": "Paul Barry",
+    "publication_year": 2010,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-03-16 12:33:00"
+  }
+]
