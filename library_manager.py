@@ -21,8 +21,8 @@ st.set_page_config(
 # Custom CSS for styling
 st.markdown("""
 
-# #custom css for styling
-# st.markdown("""
+#Custom CSS
+st.markdown("""
 <style>
     .main-header {
             font-size: 3rem !important;
