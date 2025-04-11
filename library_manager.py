@@ -22,7 +22,7 @@ st.markdown("""
 <style>
     .main-header {
         font-size: 3rem !important;
-        color: #1E3A8A;
+        color: black;
         font-weight: 700;
         margin-bottom: 1rem;
         text-align: center;
@@ -30,7 +30,7 @@ st.markdown("""
     }
     .sub-header {
         font-size: 1.8rem !important;
-        color: #3B82F6;
+        color: black;
         font-weight: 600;
         margin-top: 1rem;
         margin-bottom: 1rem;
@@ -61,7 +61,7 @@ st.markdown("""
     }
     .read-badge {
         background-color: #10B981;
-        color: black;
+        color: white;
         padding: 0.25rem 0.75rem;
         border-radius: 1rem;
         font-size: 0.875rem;
@@ -69,7 +69,7 @@ st.markdown("""
     }
     .unread-badge {
         background-color: #F87171;
-        color: black;
+        color: white;
         padding: 0.25rem 0.75rem;
         border-radius: 1rem;
         font-size: 0.875rem;
