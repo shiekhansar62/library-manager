@@ -22,7 +22,7 @@ st.markdown("""
 <style>
     .main-header {
         font-size: 3rem !important;
-        color: black;
+        color: #1E3A8A;
         font-weight: 700;
         margin-bottom: 1rem;
         text-align: center;
@@ -30,7 +30,7 @@ st.markdown("""
     }
     .sub-header {
         font-size: 1.8rem !important;
-        color: black;
+        color: #3B82F6;
         font-weight: 600;
         margin-top: 1rem;
         margin-bottom: 1rem;
