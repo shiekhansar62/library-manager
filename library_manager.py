@@ -22,7 +22,7 @@ st.markdown("""
 <style>
     .main-header {
         font-size: 3rem !important;
-        color: #000000;
+        color: #1E3A8A;
         font-weight: 700;
         margin-bottom: 1rem;
         text-align: center;
@@ -61,7 +61,7 @@ st.markdown("""
     }
     .read-badge {
         background-color: #10B981;
-        color: white;
+        color: black;
         padding: 0.25rem 0.75rem;
         border-radius: 1rem;
         font-size: 0.875rem;
