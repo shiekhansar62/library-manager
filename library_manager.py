@@ -69,7 +69,7 @@ st.markdown("""
     }
     .unread-badge {
         background-color: #F87171;
-        color: white;
+        color: black;
         padding: 0.25rem 0.75rem;
         border-radius: 1rem;
         font-size: 0.875rem;
