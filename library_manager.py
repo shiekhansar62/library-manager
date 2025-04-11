@@ -22,6 +22,7 @@ st.set_page_config(
 st.markdown("""
 
 #Custom CSS
+# Custom CSS
 st.markdown("""
 <style>
     .main-header {
@@ -40,7 +41,7 @@ st.markdown("""
             margin-bottom: 1rem;
         }
 
-    .sucess-message {
+    .success-message {  # ✅ Spelling theek kiya
             padding: 1rem;
             background-color: #ECFDF5;
             border-left: 5px solid #10B981;
@@ -64,7 +65,7 @@ st.markdown("""
             }
     .book-card-hover{
             transform: translateY(-5px);
-            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1)
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);  # ✅ Semicolon add kiya
             }
     .read-badge {
             background-color: #10B981;
